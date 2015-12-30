@@ -3,7 +3,7 @@ A small utility to optimize data averaging by ignoring irrelevant data that can 
 
 The distance provided by the beacons comes constantly and can be consistently inconsistent, which is what led to the creation of this small utility. Say the user is 2m away from the beacon, but you receive the following distances from the beacon:
 
-	`[14.78, 2.25, 2.45, 1.87, 1.89, 2.11, 9.33, 1.97, 2.06, 1.93, 2.22, 2.22, 11.17]`
+	[14.78, 2.25, 2.45, 1.87, 1.89, 2.11, 9.33, 1.97, 2.06, 1.93, 2.22, 2.22, 11.17]
 
 Some of these are unlike the others. Namely the _14_, _9_, and the _11_. They do not belong. That's fine though, we can get rid of those.
 
