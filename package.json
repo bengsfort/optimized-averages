@@ -1,0 +1,26 @@
+{
+  "name": "optimized-averages",
+  "version": "1.0.0",
+  "description": "A small utility to optimize data averaging by ignoring irrelevant data that can go kick rocks.",
+  "main": "optimizedAverages.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aesinv/optimized-averages.git"
+  },
+  "keywords": [
+    "beacons",
+    "data",
+    "averaging",
+    "data",
+    "optimization"
+  ],
+  "author": "Matt Bengston <dorifutomatt@gmail.com> (http://aesinv.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aesinv/optimized-averages/issues"
+  },
+  "homepage": "https://github.com/aesinv/optimized-averages#readme"
+}
